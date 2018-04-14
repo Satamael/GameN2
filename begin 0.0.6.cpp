@@ -73,6 +73,7 @@ if(HP<=0 or Eat<=0){
 
 
     }
+txSetFillColor(TX_BLACK);
 txClear();
 
 return 0;
